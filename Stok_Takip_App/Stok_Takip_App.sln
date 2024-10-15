@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stok_Takip_App", "Stok_Takip_App\Stok_Takip_App.csproj", "{6EB52700-C718-462B-8C0F-0F27921E5EF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EB52700-C718-462B-8C0F-0F27921E5EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB52700-C718-462B-8C0F-0F27921E5EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB52700-C718-462B-8C0F-0F27921E5EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB52700-C718-462B-8C0F-0F27921E5EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77A03CAB-C0F8-4373-A000-0C3945E408E6}
+	EndGlobalSection
+EndGlobal

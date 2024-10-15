@@ -1,0 +1,10 @@
+C:\Users\mertm\source\repos\to-do-list\to-do-list\obj\Debug\to-do-list.csproj.AssemblyReference.cache
+C:\Users\mertm\source\repos\to-do-list\to-do-list\obj\Debug\to_do_list.Form1.resources
+C:\Users\mertm\source\repos\to-do-list\to-do-list\obj\Debug\to_do_list.Properties.Resources.resources
+C:\Users\mertm\source\repos\to-do-list\to-do-list\obj\Debug\to-do-list.csproj.GenerateResource.cache
+C:\Users\mertm\source\repos\to-do-list\to-do-list\obj\Debug\to-do-list.csproj.CoreCompileInputs.cache
+C:\Users\mertm\source\repos\to-do-list\to-do-list\bin\Debug\to-do-list.exe.config
+C:\Users\mertm\source\repos\to-do-list\to-do-list\bin\Debug\to-do-list.exe
+C:\Users\mertm\source\repos\to-do-list\to-do-list\bin\Debug\to-do-list.pdb
+C:\Users\mertm\source\repos\to-do-list\to-do-list\obj\Debug\to-do-list.exe
+C:\Users\mertm\source\repos\to-do-list\to-do-list\obj\Debug\to-do-list.pdb

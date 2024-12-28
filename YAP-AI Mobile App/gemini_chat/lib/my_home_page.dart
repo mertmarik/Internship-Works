@@ -44,7 +44,7 @@ class _MyHomePageState extends ConsumerState<MyHomePage> {
       _scrollToBottom();
       final model = GenerativeModel(
           model: 'gemini-pro',
-          apiKey: 'AIzaSyCRZG9bft62_351XGjp0GmMa9pYHoYgS84');
+          apiKey: '');
       final content = [Content.text(messageText)];
       final response = await model.generateContent(content);
 
